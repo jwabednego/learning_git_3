@@ -1,4 +1,4 @@
 console.log('learning git 3');
 console.log('Version 2');
 console.log('Version 3');
-console.log('confilct 1');
+console.log('merge conflict resolve');
